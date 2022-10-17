@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Heart_Obj","path":"objects/Heart_Obj/Heart_Obj.yy",},"order":0,},
     {"id":{"name":"obj_heart","path":"objects/obj_heart/obj_heart.yy",},"order":1,},
     {"id":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"order":15,},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},"order":0,},

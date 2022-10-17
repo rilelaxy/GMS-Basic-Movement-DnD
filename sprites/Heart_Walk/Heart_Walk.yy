@@ -1,8 +1,54 @@
 {
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 0,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 5,
+  "bbox_right": 24,
+  "bbox_top": 5,
+  "bbox_bottom": 31,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 32,
+  "height": 32,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"a2e90470-f54d-4b8e-83c7-76c0024b1375","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a2e90470-f54d-4b8e-83c7-76c0024b1375","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"a2e90470-f54d-4b8e-83c7-76c0024b1375","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f802ad30-be64-46f4-a455-82ac95187afc","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f802ad30-be64-46f4-a455-82ac95187afc","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"f802ad30-be64-46f4-a455-82ac95187afc","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a5b6dbfe-221c-47ab-8567-cca93dbe6d21","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a5b6dbfe-221c-47ab-8567-cca93dbe6d21","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"a5b6dbfe-221c-47ab-8567-cca93dbe6d21","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"94c443a0-06be-40e7-94d9-7018e98bd6f8","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"94c443a0-06be-40e7-94d9-7018e98bd6f8","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"94c443a0-06be-40e7-94d9-7018e98bd6f8","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cafa1f28-5a7d-4409-be1a-722d22f54346","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cafa1f28-5a7d-4409-be1a-722d22f54346","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"cafa1f28-5a7d-4409-be1a-722d22f54346","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"01f3f05d-2896-4c0f-9d54-f0ed1bd71503","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"01f3f05d-2896-4c0f-9d54-f0ed1bd71503","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"01f3f05d-2896-4c0f-9d54-f0ed1bd71503","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c1d74e26-2a3f-49e4-943b-7f9bfc622c45","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c1d74e26-2a3f-49e4-943b-7f9bfc622c45","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"c1d74e26-2a3f-49e4-943b-7f9bfc622c45","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"50183835-eefd-42bc-aa6d-010404d41eb8","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"50183835-eefd-42bc-aa6d-010404d41eb8","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"50183835-eefd-42bc-aa6d-010404d41eb8","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
   "sequence": {
     "spriteId": {"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},
     "timeUnits": 1,
@@ -46,52 +92,6 @@
     "tags": [],
     "resourceType": "GMSequence",
   },
-  "bboxMode": 0,
-  "collisionKind": 1,
-  "type": 0,
-  "origin": 0,
-  "preMultiplyAlpha": false,
-  "edgeFiltering": false,
-  "collisionTolerance": 0,
-  "swfPrecision": 2.525,
-  "bbox_left": 5,
-  "bbox_right": 24,
-  "bbox_top": 5,
-  "bbox_bottom": 31,
-  "HTile": false,
-  "VTile": false,
-  "For3D": false,
-  "width": 32,
-  "height": 32,
-  "swatchColours": null,
-  "gridX": 0,
-  "gridY": 0,
-  "frames": [
-    {"compositeImage":{"FrameId":{"name":"a2e90470-f54d-4b8e-83c7-76c0024b1375","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a2e90470-f54d-4b8e-83c7-76c0024b1375","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"a2e90470-f54d-4b8e-83c7-76c0024b1375","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"f802ad30-be64-46f4-a455-82ac95187afc","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f802ad30-be64-46f4-a455-82ac95187afc","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"f802ad30-be64-46f4-a455-82ac95187afc","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"a5b6dbfe-221c-47ab-8567-cca93dbe6d21","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a5b6dbfe-221c-47ab-8567-cca93dbe6d21","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"a5b6dbfe-221c-47ab-8567-cca93dbe6d21","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"94c443a0-06be-40e7-94d9-7018e98bd6f8","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"94c443a0-06be-40e7-94d9-7018e98bd6f8","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"94c443a0-06be-40e7-94d9-7018e98bd6f8","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"cafa1f28-5a7d-4409-be1a-722d22f54346","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"cafa1f28-5a7d-4409-be1a-722d22f54346","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"cafa1f28-5a7d-4409-be1a-722d22f54346","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"01f3f05d-2896-4c0f-9d54-f0ed1bd71503","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"01f3f05d-2896-4c0f-9d54-f0ed1bd71503","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"01f3f05d-2896-4c0f-9d54-f0ed1bd71503","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"c1d74e26-2a3f-49e4-943b-7f9bfc622c45","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"c1d74e26-2a3f-49e4-943b-7f9bfc622c45","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"c1d74e26-2a3f-49e4-943b-7f9bfc622c45","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"50183835-eefd-42bc-aa6d-010404d41eb8","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"50183835-eefd-42bc-aa6d-010404d41eb8","path":"sprites/Heart_Walk/Heart_Walk.yy",},"LayerId":{"name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"resourceVersion":"1.0","name":"50183835-eefd-42bc-aa6d-010404d41eb8","tags":[],"resourceType":"GMSpriteFrame",},
-  ],
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"382f8968-0e87-49ec-a767-f4d4a86acfb6","tags":[],"resourceType":"GMImageLayer",},
   ],
