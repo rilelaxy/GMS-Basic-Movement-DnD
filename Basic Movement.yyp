@@ -1,8 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":1,},
     {"id":{"name":"Heart_Obj","path":"objects/Heart_Obj/Heart_Obj.yy",},"order":0,},
-    {"id":{"name":"obj_heart","path":"objects/obj_heart/obj_heart.yy",},"order":1,},
-    {"id":{"name":"Heart_Walk","path":"sprites/Heart_Walk/Heart_Walk.yy",},"order":15,},
+    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":16,},
+    {"id":{"name":"Spr_Mush","path":"sprites/Spr_Mush/Spr_Mush.yy",},"order":1,},
+    {"id":{"name":"Spr_Heart_Walk","path":"sprites/Spr_Heart_Walk/Spr_Heart_Walk.yy",},"order":0,},
     {"id":{"name":"rm_1","path":"rooms/rm_1/rm_1.yy",},"order":0,},
   ],
   "Options": [
